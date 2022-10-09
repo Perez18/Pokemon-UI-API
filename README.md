@@ -12,7 +12,7 @@
   npm install 
 ```
 
-### inicializar del proyecto en el puerto 3000
+### inicializar del proyecto
 
 ```
   npm start 
